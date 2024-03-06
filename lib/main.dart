@@ -38,6 +38,8 @@ class XylophoneApp extends StatelessWidget {
         backgroundColor:color ,
 appBar: AppBar(
 
+
+
   title: const Text("Xylophone"),
 
 ),
